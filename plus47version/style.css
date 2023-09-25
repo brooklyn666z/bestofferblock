@@ -73,6 +73,7 @@ body {
     word-wrap: break-word;
     text-transform: none;
     margin-bottom: 10px;
+    line-height: 22px;
   }
   .services-best-offer-desc {
     color: black;
